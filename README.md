@@ -1,3 +1,5 @@
+<h1 align="center">Bhushan | Fullstack Software Developer</h1>
+
 <h3 align="center">I’m Bhushan, a first-year B.Tech student, passionate Fullstack Developer. I love building web apps, exploring decentralized tech, and playing cricket</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan4work&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan4work" /> </p>
