@@ -1,45 +1,39 @@
-# Bhushan Agrawal <3
+# BHUSHAN AGRAWAL <3
+====================
 
 Love turning ideas into working products.  
 Currently building useful things for developers and communities.
 
----
+-------------
 
-## Connect With Me
+Connect With Me
 
-- X / Twitter → https://x.com/Bhushan4work
-- Portfolio → https://bhushanagrawal.vercel.app
-- LinkedIn → https://www.linkedin.com/in/bhushan4work/
-- Email → bhushan.agrawal4work@gmail.com
+➜ X / Twitter    ➜ https://x.com/Bhushan4work  
+➜ Portfolio      ➜ https://bhushanagrawal.vercel.app  
+➜ LinkedIn       ➜ https://www.linkedin.com/in/bhushan4work/  
+➜ Email          ➜ bhushan.agrawal4work@gmail.com  
 
----
+-------------
 
-## Skills & Tools
+Skills & Tools
 
-**Backend:**  
-Node.js, Express.js
+➜ Backend:    Node.js, Express.js  
+➜ Frontend:   React, JavaScript, TypeScript, HTML5, CSS3  
+➜ Database:   MongoDB  
+➜ DevOps:     Git, Docker, Postman  
 
-**Frontend:**  
-React.js, JavaScript, TypeScript, HTML5, CSS3
+-------------
 
-**Databases:**  
-MongoDB
+Featured Projects
 
-**DevOps & Tools:**  
-Git, Docker, Postman
+● ResourceQL  
+  + A platform to discover structured programming resources.  
+  + Live Link: https://resource-ql.vercel.app  
 
----
+-------------
 
-## Featured Projects
-
-### ResourceQL
-A platform where you'll find the right resources to improve your programming skills and grow your knowledge.
-Live Link: https://resource-ql.vercel.app
-
----
-
-Thanks for stopping by!  
+Thanks for stopping by! :)
 
 Feel free to say hi, share ideas, or grab a virtual coffee ☕  
 
-Let’s build something cool together 🚀
+Let's build something cool together 🚀
