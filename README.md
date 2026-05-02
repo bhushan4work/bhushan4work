@@ -14,11 +14,6 @@ Skills & Tools:-
 - Database: MongoDB  
 - DevOps: Git, Docker, Postman  
 
-Featured Projects:-
-● ResourceQL  
-  + A platform to discover structured programming resources.  
-  + LiveLink: https://resource-ql.vercel.app  
-
 Thanks for stopping by! :)
 Feel free to say hi, share ideas, or grab a virtual coffee ☕  
 Let's build something cool together 🚀
