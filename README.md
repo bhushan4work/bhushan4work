@@ -1,19 +1,18 @@
-# BHUSHAN AGRAWAL <3
-Love turning ideas into working products.
-Currently building useful things for developers and communities. 
+# bhushan agrawal
 
-Connect With Me:-
-- X / Twitter: https://x.com/Bhushan4work  
-- Portfolio: https://bhushanagrawal.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/bhushan4work/  
-- Email: bhushan.agrawal4work@gmail.com  
+india-based solo builder, still in college unfortunately. i'm a self-taught software developer. for the past 2+ years, i've been building web applications, developer tools, and saas products. i focus on building scalable web applications with clean architecture, delivering performant, maintainable code and thoughtful user experiences.
 
-Skills & Tools:-
-- Backend: Node.js, Express.js  
-- Frontend: React, JavaScript, TypeScript, HTML5, CSS3
-- Database: MongoDB  
-- DevOps: Git, Docker, Postman  
+### skills & tools:-
 
-Thanks for stopping by! :)
-Feel free to say hi, share ideas, or grab a virtual coffee ☕  
-Let's build something cool together 🚀
+* frontend: react, next.js, javascript, typescript, html5, css3, tailwind css
+* backend: node.js, python
+* database: mongodb
+* devops & tools: git, docker, postman
+* languages: c++, python, javascript, typescript
+
+### socials:-
+
+* github: https://github.com/bhushan4work
+* linkedin: https://www.linkedin.com/in/bhushan4work/
+* x: https://x.com/Bhushan4work_
+
