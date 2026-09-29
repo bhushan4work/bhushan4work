@@ -1,18 +1,78 @@
-# bhushan agrawal
+<h2>hi, i'm bhushan agrawal!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-india-based solo builder, still in college unfortunately. i'm a self-taught software developer. for the past 2+ years, i've been building web applications, developer tools, and saas products. i focus on building scalable web applications with clean architecture, delivering performant, maintainable code and thoughtful user experiences.
+<img align="right" src="https://media1.tenor.com/m/qc8QHhSMfngAAAAd/bepalzo-monkey.gif" width="290">
 
-### skills & tools:-
+<p><em><u>computer engineering student</u></em></p>
 
-* frontend: react, next.js, javascript, typescript, html5, css3, tailwind css
-* backend: node.js, python
-* database: mongodb
-* devops & tools: git, docker, postman
-* languages: c++, python, javascript, typescript
+<p align="left">
+  <a href="https://x.com/bhushan4work">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/brands/x-twitter.svg" width="19" height="19" alt="x" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhushan4work/">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/brands/linkedin.svg" width="19" height="19" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bhushanagrawal.vercel.app">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/solid/globe.svg" width="19" height="19" alt="portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bhushan.agrawal4work@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/solid/envelope.svg" width="19" height="19" alt="email" />
+  </a>
+</p>
 
-### socials:-
+<p><em>a little more about me...</em></p>
 
-* github: https://github.com/bhushan4work
-* linkedin: https://www.linkedin.com/in/bhushan4work/
-* x: https://x.com/Bhushan4work_
+```javascript
+const bhushan = {
+  role: "software developer",
 
+  code: ["typescript", "javascript", "python", "c++", 
+  "html", "css"],
+
+  tools: ["react", "next.js", "node.js", "tailwind css",
+   "mongodb", "git", "github", "docker", "vercel"],
+
+  interests: [
+    "ai",
+    "open source",
+    "developer tools",
+    "software architecture",
+    "web performance"
+  ],
+
+  openTo: [
+    "freelance work", "full-time opportunities",
+    "collaborations", "interesting projects"
+  ],
+}
+```
+
+<br>
+<p><em>some things i've built...</em></p>
+<p>
+  <a href="https://supplyrift.vercel.app">supplyrift</a> ·
+  <a href="https://privyte.vercel.app">privyte</a> ·
+  <a href="https://replore.vercel.app">replore</a> ·
+  <a href="https://carrecallr.vercel.app">carrecallr</a> ·
+  <a href="https://psycode.vercel.app">psycode</a> ·
+  <a href="https://shipwhere.vercel.app">shipwhere</a> · <br>
+  <a href="https://resourceql.vercel.app">resourceql</a> ·
+  <a href="https://roastmyblog.vercel.app">roastmyblog</a> ·
+  <a href="https://unbuilt-ideas.vercel.app">unbuilt</a> ·
+  <a href="https://community.obsidian.md/plugins/knowledge-regression">knowledge-regression</a>
+</p>
+
+<br>
+<p><em>things i've been writing about...</em></p>
+<p>
+  <a href="https://bhushanagrawal.vercel.app/blog/evals">what i learned about llm evals and why they matter</a> <br>
+  <a href="https://bhushanagrawal.vercel.app/blog/ai-slop">how to spot ai slop without using an ai detector</a> <br>
+  <a href="https://bhushanagrawal.vercel.app/blog/jobsearch">the ultimate job search playbook u need</a> <br>
+  <a href="https://bhushanagrawal.vercel.app/blog/sandbox">why ai agents keep breaking out of sandboxes</a> <br>
+  <a href="https://bhushanagrawal.vercel.app/blog/seo-aeo-geo">a practical guide to modern website optimization for seo, aeo, and geo</a>
+</p>
+
+<br>
+<p><em>i love building things, learning new technologies, and contributing to open source.</em></p>
