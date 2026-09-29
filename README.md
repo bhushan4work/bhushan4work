@@ -1,25 +1,12 @@
 <h2>hi, i'm bhushan agrawal!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align="right" src="./assets/monkey.gif" width="290">
-
 <p><em><u>computer engineering student</u></em></p>
 
 <p align="left">
-  <a href="https://x.com/bhushan4work" style="text-decoration:none;">
-    <img src="./assets/x.svg" width="19" height="19" alt="x">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhushan4work/" style="text-decoration:none;">
-    <img src="./assets/linkedin.svg" width="19" height="19" alt="linkedin">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bhushanagrawal.vercel.app" style="text-decoration:none;">
-    <img src="./assets/globe.svg" width="19" height="19" alt="portfolio">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bhushan.agrawal4work@gmail.com" style="text-decoration:none;">
-    <img src="./assets/mail.svg" width="19" height="19" alt="email">
-  </a>
+  <a href="https://x.com/bhushan4work"><img src="./assets/x.svg" width="19" height="19" alt="x"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhushan4work/"><img src="./assets/linkedin.svg" width="19" height="19" alt="linkedin"></a>&nbsp;&nbsp;
+  <a href="https://bhushanagrawal.vercel.app"><img src="./assets/globe.svg" width="19" height="19" alt="portfolio"></a>&nbsp;&nbsp;
+  <a href="mailto:bhushan.agrawal4work@gmail.com"><img src="./assets/mail.svg" width="19" height="19" alt="email"></a>
 </p>
 
 <p><em>a little more about me...</em></p>
