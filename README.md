@@ -5,19 +5,19 @@
 <p><em><u>computer engineering student</u></em></p>
 
 <p align="left">
-  <a href="https://x.com/bhushan4work">
+  <a href="https://x.com/bhushan4work" style="text-decoration:none;">
     <img src="./assets/x.svg" width="19" height="19" alt="x">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhushan4work/">
+  <a href="https://www.linkedin.com/in/bhushan4work/" style="text-decoration:none;">
     <img src="./assets/linkedin.svg" width="19" height="19" alt="linkedin">
   </a>
   &nbsp;&nbsp;
-  <a href="https://bhushanagrawal.vercel.app">
+  <a href="https://bhushanagrawal.vercel.app" style="text-decoration:none;">
     <img src="./assets/globe.svg" width="19" height="19" alt="portfolio">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:bhushan.agrawal4work@gmail.com">
+  <a href="mailto:bhushan.agrawal4work@gmail.com" style="text-decoration:none;">
     <img src="./assets/mail.svg" width="19" height="19" alt="email">
   </a>
 </p>
