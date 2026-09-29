@@ -1,24 +1,24 @@
 <h2>hi, i'm bhushan agrawal!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align="right" src="https://media1.tenor.com/m/qc8QHhSMfngAAAAd/bepalzo-monkey.gif" width="290">
+<img align="right" src="./assets/monkey.gif" width="290">
 
 <p><em><u>computer engineering student</u></em></p>
 
 <p align="left">
   <a href="https://x.com/bhushan4work">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/brands/x-twitter.svg" width="19" height="19" alt="x" />
+    <img src="./assets/x.svg" width="19" height="19" alt="x">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bhushan4work/">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/brands/linkedin.svg" width="19" height="19" alt="linkedin" />
+    <img src="./assets/linkedin.svg" width="19" height="19" alt="linkedin">
   </a>
   &nbsp;&nbsp;
   <a href="https://bhushanagrawal.vercel.app">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/solid/globe.svg" width="19" height="19" alt="portfolio" />
+    <img src="./assets/globe.svg" width="19" height="19" alt="portfolio">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:bhushan.agrawal4work@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/svgs/solid/envelope.svg" width="19" height="19" alt="email" />
+    <img src="./assets/mail.svg" width="19" height="19" alt="email">
   </a>
 </p>
 
