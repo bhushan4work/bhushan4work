@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>17 merged prs and counting.</u></p>
+<p><u>19 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/OWASP/wrongsecrets/pull/2718">Fix #1115: optimize table rendering, cache score, purge/minify css/js, and enable virtual threads (#2718)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/wrongsecrets">OWASP/wrongsecrets</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/chatcops/pull/102">fix(widget): associate pre-chat labels and improve field accessibility (#95) (#102)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops/pull/106">fix(widget): keep code literal in markdown rendering (#106)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/OWASP/cve-lite-cli/pull/1270">feat(action): add a delta input that comments on a PR with only its findings (#1270)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/chatcops/pull/105">fix(server): share chat handler between express middleware and analytics endpoint (#105)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/OWASP/wrongsecrets/pull/2718">Fix #1115: optimize table rendering, cache score, purge/minify css/js, and enable virtual threads (#2718)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/wrongsecrets">OWASP/wrongsecrets</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
