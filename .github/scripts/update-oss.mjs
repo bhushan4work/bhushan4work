@@ -43,11 +43,16 @@ function renderPr(item) {
   const mergedDate = item.closed_at ? monthLabel(item.closed_at) : "merged";
   const title = `${item.title} (#${item.number})`;
   return [
-    "<p>",
-    `  <a href="${escapeHtml(item.html_url)}">${escapeHtml(title)}</a> &nbsp; <span>${escapeHtml(mergedDate)}</span><br>`,
-    `  <a href="${escapeHtml(repoUrl)}">${escapeHtml(owner)}/${escapeHtml(repo)}</a> &nbsp;•&nbsp; <span>merged</span>`,
-    "</p>",
-  ].join("\n");
+  '<table width="100%" border="0">',
+  "  <tr>",
+  `    <td width="100%"><a href="${escapeHtml(item.html_url)}">${escapeHtml(title)}</a></td>`,
+  `    <td align="right" nowrap>${escapeHtml(mergedDate)}</td>`,
+  "  </tr>",
+  "  <tr>",
+  `    <td colspan="2"><a href="${escapeHtml(repoUrl)}">${escapeHtml(owner)}/${escapeHtml(repo)}</a> &nbsp;•&nbsp; <span>merged</span></td>`,
+  "  </tr>",
+  "</table>",
+].join("\n");
 }
 
 async function main() {
@@ -67,9 +72,7 @@ async function main() {
   const latestThree = mergedPrs.slice(0, 3);
   const searchUrl = `https://github.com/pulls?q=${encodeURIComponent(query).replaceAll("%20", "+")}`;
   const lines = [
-    "<h2>oss</h2>",
-    "",
-    `<p>${firstPage.total_count} merged prs and counting.</p>`,
+    `<p><u>${firstPage.total_count} merged prs and counting.</u></p>`,
     "",
     latestThree.length ? latestThree.map(renderPr).join("\n\n") : "<p>no merged prs found yet.</p>",
     "",
