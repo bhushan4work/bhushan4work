@@ -16,25 +16,29 @@ const bhushan = {
   role: "software developer",
 
   code: ["typescript", "javascript", "python", "c++", 
-  "html", "css"],
+  "html", "css", "sql"],
 
   tools: ["react", "next.js", "node.js", "tailwind css",
-   "mongodb", "git", "github", "docker", "vercel"],
+   "mongodb", "git", "github", "docker", "vercel", "prisma",
+   "express.js", "postgresql"],
 
   interests: [
-    "ai",
-    "open source",
-    "developer tools",
-    "software architecture",
-    "web performance"
+  "fullstack engineering", "ai engineering",
+  "opensource development", "system design", "backend engineering",
+  "developer tools", "performance optimization"
   ],
 
   openTo: [
-    "freelance work", "full-time opportunities",
-    "collaborations", "interesting projects"
+  "software engineering internships", "fulltime opportunities",
+  "opensource contributions", "freelance projects",
+  "technical collaborations"
   ],
 }
 ```
+
+<p><em>contributing beyond my own repos...</em></p>
+
+<p>loading merged prs...</p>
 
 <br>
 <p><em>some things i've built...</em></p>

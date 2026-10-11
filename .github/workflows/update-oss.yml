@@ -1,0 +1,47 @@
+name: update oss contributions
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-oss.yml"
+      - ".github/scripts/update-oss.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-oss-readme
+  cancel-in-progress: false
+
+jobs:
+  update-oss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out profile repository
+        uses: actions/checkout@v4
+
+      - name: set up node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: update merged pull requests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR_USERNAME: bhushan4work
+        run: node .github/scripts/update-oss.mjs
+
+      - name: commit readme update
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update oss contributions"
+          git push
