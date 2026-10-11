@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>19 merged prs and counting.</u></p>
+<p><u>20 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/chatcops/pull/108">fix(widget): abort in-flight reply on destroy and ignore late results (#108)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/106">fix(widget): keep code literal in markdown rendering (#106)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/chatcops/pull/105">fix(server): share chat handler between express middleware and analytics endpoint (#105)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/OWASP/wrongsecrets/pull/2718">Fix #1115: optimize table rendering, cache score, purge/minify css/js, and enable virtual threads (#2718)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/wrongsecrets">OWASP/wrongsecrets</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
