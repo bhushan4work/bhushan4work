@@ -43,15 +43,10 @@ function renderPr(item) {
   const mergedDate = item.closed_at ? monthLabel(item.closed_at) : "merged";
   const title = `${item.title} (#${item.number})`;
   return [
-  '<table width="100%" border="0">',
-  "  <tr>",
-  `    <td width="100%"><a href="${escapeHtml(item.html_url)}">${escapeHtml(title)}</a></td>`,
-  `    <td align="right" nowrap>${escapeHtml(mergedDate)}</td>`,
-  "  </tr>",
-  "  <tr>",
-  `    <td colspan="2"><a href="${escapeHtml(repoUrl)}">${escapeHtml(owner)}/${escapeHtml(repo)}</a> &nbsp;•&nbsp; <span>merged</span></td>`,
-  "  </tr>",
-  "</table>",
+  "<p>",
+  `  <a href="${escapeHtml(item.html_url)}">${escapeHtml(title)}</a> &nbsp; <span>${escapeHtml(mergedDate)}</span><br>`,
+  `  <a href="${escapeHtml(repoUrl)}">${escapeHtml(owner)}/${escapeHtml(repo)}</a> &nbsp;•&nbsp; <span>merged</span>`,
+  "</p>",
 ].join("\n");
 }
 
