@@ -38,7 +38,9 @@ const bhushan = {
 
 <p><em>contributing beyond my own repos...</em></p>
 
+<!-- OSS-AUTO-START -->
 <p>loading merged prs...</p>
+<!-- OSS-AUTO-END -->
 
 <br>
 <p><em>some things i've built...</em></p>
