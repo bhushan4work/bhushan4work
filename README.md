@@ -39,24 +39,37 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<h2>oss</h2>
+<p><u>16 merged prs and counting.</u></p>
 
-<p>16 merged prs and counting.</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="100%"><a href="https://github.com/codercops/chatcops/pull/102">fix(widget): associate pre-chat labels and improve field accessibility (#95) (#102)</a></td>
+    <td align="right" nowrap>oct 2026</td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span></td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/codercops/chatcops/pull/102">fix(widget): associate pre-chat labels and improve field accessibility (#95) (#102)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="100%"><a href="https://github.com/OWASP/cve-lite-cli/pull/1270">feat(action): add a delta input that comments on a PR with only its findings (#1270)</a></td>
+    <td align="right" nowrap>oct 2026</td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span></td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/OWASP/cve-lite-cli/pull/1270">feat(action): add a delta input that comments on a PR with only its findings (#1270)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/OWASP/DevSecOpsGuideline/pull/115">docs: add Pipeline-view.drawio source file (#65) (#115)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/DevSecOpsGuideline">OWASP/DevSecOpsGuideline</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="100%"><a href="https://github.com/OWASP/DevSecOpsGuideline/pull/115">docs: add Pipeline-view.drawio source file (#65) (#115)</a></td>
+    <td align="right" nowrap>oct 2026</td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/OWASP/DevSecOpsGuideline">OWASP/DevSecOpsGuideline</a> &nbsp;•&nbsp; <span>merged</span></td>
+  </tr>
+</table>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
 <!-- OSS-AUTO-END -->
