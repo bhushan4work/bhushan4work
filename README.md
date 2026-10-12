@@ -39,20 +39,20 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>21 merged prs and counting.</u></p>
+<p><u>24 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/codercops/chatcops/pull/110">fix(website): give active sidebar link readable text in dark mode (#110)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/620">fix(setup): defer free-plan protection refusal until launch (#601) (#620)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/chatcops/pull/108">fix(widget): abort in-flight reply on destroy and ignore late results (#108)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/ogcops/pull/120">fix: honor template query params and make title optional (#59) (#120)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/chatcops/pull/106">fix(widget): keep code literal in markdown rendering (#106)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops/pull/119">docs: add README badges, contributors section, and community links (#119)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
