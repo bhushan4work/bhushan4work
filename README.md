@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>20 merged prs and counting.</u></p>
+<p><u>21 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/chatcops/pull/110">fix(website): give active sidebar link readable text in dark mode (#110)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/108">fix(widget): abort in-flight reply on destroy and ignore late results (#108)</a> &nbsp; <span>oct 2026</span><br>
@@ -48,11 +53,6 @@ const bhushan = {
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/106">fix(widget): keep code literal in markdown rendering (#106)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/chatcops/pull/105">fix(server): share chat handler between express middleware and analytics endpoint (#105)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
