@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>25 merged prs and counting.</u></p>
+<p><u>27 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/toolbelt/pull/149">feat: add env-driven search-engine verification meta tags (#26) (#149)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/codercops/chatcops/pull/125">fix(docs): use app.all for express chat handler to allow CORS preflight (#40) (#125)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/discord-bot/pull/10">feat: add a /help command (#10)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/620">fix(setup): defer free-plan protection refusal until launch (#601) (#620)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/ogcops/pull/120">fix: honor template query params and make title optional (#59) (#120)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
