@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>29 merged prs and counting.</u></p>
+<p><u>31 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/ogcops/pull/127">feat(templates): add series-part blog template (#60) (#127)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/codercops/discord-bot/pull/11">fix: take issues out of starter feed when no longer available (#11)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/129">fix(widget): fix browser global export and deferred auto-init (#41) (#129)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/storybookjs/storybook/pull/36732">Nextjs-Vite: Provide parentRenderTree.bfcacheId in app router mock (#36732)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/storybookjs/storybook">storybookjs/storybook</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/toolbelt/pull/149">feat: add env-driven search-engine verification meta tags (#26) (#149)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
