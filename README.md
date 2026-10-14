@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>35 merged prs and counting.</u></p>
+<p><u>37 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/chatcops/pull/136">fix(server): make cors optional and default to &#39;*&#39; (#53) (#136)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/640">refactor: drop the audit&#39;s dead code and unshared exports (#502) (#640)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/ogcops/pull/128">fix: normalize hex color parameters and support 3-digit hex (#128)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/mdazfar2/Ezyshop/pull/1158">fix: navbar elements spacing and alignment (#1156) (#1158)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/mdazfar2/Ezyshop">mdazfar2/Ezyshop</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/toolbelt/pull/164">docs: add performance baseline audit and methodology (#28) (#164)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
