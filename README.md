@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>41 merged prs and counting.</u></p>
+<p><u>42 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/OWASP/DevSecOpsGuideline/pull/117">docs: add build provenance generation and deployment verification (#117)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/DevSecOpsGuideline">OWASP/DevSecOpsGuideline</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/toolbelt/pull/173">fix: correct JSON formatter clear shortcut and share platform detection (#92) (#173)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/discord-bot/pull/21">fix: retry once when Discord rate limits a request (#21)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/siemens/ix/pull/2895">docs(examples): modernize Angular dependency injection (#2895)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/siemens/ix">siemens/ix</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
