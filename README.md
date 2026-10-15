@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>38 merged prs and counting.</u></p>
+<p><u>39 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/siemens/ix/pull/2895">docs(examples): modernize Angular dependency injection (#2895)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/siemens/ix">siemens/ix</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/579">fix(web): count only story-reachable classic steps in the denominator (#570) (#579)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/chatcops/pull/136">fix(server): make cors optional and default to &#39;*&#39; (#53) (#136)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/640">refactor: drop the audit&#39;s dead code and unshared exports (#502) (#640)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
