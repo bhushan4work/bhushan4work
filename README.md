@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>45 merged prs and counting.</u></p>
+<p><u>47 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/125">Add hover and focus-visible effects for learning topic items (#79) (#125)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/124">add python dependency management and setup documentation (#124)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/144">fix(server): return immediately from tool executor and dispatch webhooks asynchronously (#96) (#144)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/mdazfar2/Ezyshop/pull/1164">fix: redirect to seller landing page after authentication (#1159) (#1164)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/mdazfar2/Ezyshop">mdazfar2/Ezyshop</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/ogcops/pull/135">fix: add middleware CORS rules for AI routes (#111) (#135)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
