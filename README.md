@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>49 merged prs and counting.</u></p>
+<p><u>50 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/mdazfar2/Ezyshop/pull/1165">fix(wishlist): prevent infinite loading for unauthenticated visitors (#1165)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/mdazfar2/Ezyshop">mdazfar2/Ezyshop</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/ogcops/pull/138">fix(editor): support template and field query params and prefill (#75) (#138)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/toolbelt/pull/188">feat(color-converter): add color converter &amp; contrast checker (#84) (#188)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/125">Add hover and focus-visible effects for learning topic items (#79) (#125)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
