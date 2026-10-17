@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>47 merged prs and counting.</u></p>
+<p><u>49 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/ogcops/pull/138">fix(editor): support template and field query params and prefill (#75) (#138)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/codercops/toolbelt/pull/188">feat(color-converter): add color converter &amp; contrast checker (#84) (#188)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/125">Add hover and focus-visible effects for learning topic items (#79) (#125)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/124">add python dependency management and setup documentation (#124)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/chatcops/pull/144">fix(server): return immediately from tool executor and dispatch webhooks asynchronously (#96) (#144)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
