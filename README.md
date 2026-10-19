@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>54 merged prs and counting.</u></p>
+<p><u>60 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/codercops/chatcops/pull/155">fix(widget): persist pre-chat userData and send with every request (#113) (#155)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/650">fix(web): chart only the leaderboard&#39;s top ten rows and report measured p95 (#650)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/ogcops/pull/142">fix: make width and height resize image instead of cropping (#85) (#142)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/siemens/ix/pull/2902">fix(core): stop published types from referencing @stencil/core internals (#2902)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/siemens/ix">siemens/ix</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/mdazfar2/Ezyshop/pull/1167">fix(blog): standardize blog links and handle invalid article ids (#1160) (#1167)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/mdazfar2/Ezyshop">mdazfar2/Ezyshop</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/663">fix(web): preserve the ai launch keypair on event-archive import (#653) (#663)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
