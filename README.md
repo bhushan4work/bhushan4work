@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>67 merged prs and counting.</u></p>
+<p><u>68 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/chatcops/pull/225">fix(widget): validate stored conversation before returning it (#172) (#225)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/toolbelt/pull/210">fix(base64): improve mime detection for avif, svg, bmp, and json (#205) (#210)</a> &nbsp; <span>oct 2026</span><br>
@@ -48,11 +53,6 @@ const bhushan = {
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/209">chore: add biome linter and fix genuine lint violations (#191) (#209)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/chatcops/pull/204">fix(server): preserve old assistant message until regenerate succeeds (#189) (#204)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
