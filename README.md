@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>75 merged prs and counting.</u></p>
+<p><u>76 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/209">docs(test-utils): add package README and changeset (#98) (#209)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/ogcops/pull/153">feat(templates): add coupon-code ecommerce template (#63) (#153)</a> &nbsp; <span>oct 2026</span><br>
@@ -48,11 +53,6 @@ const bhushan = {
 
 <p>
   <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/206">feat(evals): add similarity metric using Levenshtein distance (#193) (#206)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/204">feat(examples): add runnable config example for @cogitator-ai/config (#204)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
