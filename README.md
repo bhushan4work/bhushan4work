@@ -39,20 +39,20 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>64 merged prs and counting.</u></p>
+<p><u>67 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/190">ci: check in CI that every published package loads with plain Node (#108) (#190)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/toolbelt/pull/210">fix(base64): improve mime detection for avif, svg, bmp, and json (#205) (#210)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/669">fix(web): reject failed classic viewer reads instead of returning empty progress (#669)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/chatcops/pull/209">chore: add biome linter and fix genuine lint violations (#191) (#209)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/chatcops/pull/174">fix(widget): maintain persistent event handler registry (#71) (#174)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops/pull/204">fix(server): preserve old assistant message until regenerate succeeds (#189) (#204)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
