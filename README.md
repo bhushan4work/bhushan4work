@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>82 merged prs and counting.</u></p>
+<p><u>87 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/222">feat(wasm-tools): add textcase tool with token splitting and case conversion (#196) (#222)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/227">feat(server-shared): memory health check and server readiness checks (#227)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/chatcops/pull/282">feat(server): add Cloudflare Turnstile token verification (#228) (#282)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/ogcops/pull/159">feat(templates): add Contributors Wall template (#66) (#159)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/ogcops/pull/157">feat(templates): add Agenda event template (#64) (#157)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/677">test(web): add DOM interaction tests for admin challenge lifecycle (#676) (#677)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
