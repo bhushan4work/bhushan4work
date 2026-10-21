@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>81 merged prs and counting.</u></p>
+<p><u>82 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/222">feat(wasm-tools): add textcase tool with token splitting and case conversion (#196) (#222)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/282">feat(server): add Cloudflare Turnstile token verification (#228) (#282)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/ogcops/pull/157">feat(templates): add Agenda event template (#64) (#157)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/131">feat(lesson): add SQL injection lesson and update tutorial guide (#84) (#131)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
