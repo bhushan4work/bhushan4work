@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>77 merged prs and counting.</u></p>
+<p><u>81 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/codercops/toolbelt/pull/215">ci: add Lighthouse CI performance budgets (#48) (#215)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/chatcops/pull/282">feat(server): add Cloudflare Turnstile token verification (#228) (#282)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/209">docs(test-utils): add package README and changeset (#98) (#209)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/ogcops/pull/153">feat(templates): add coupon-code ecommerce template (#63) (#153)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops/pull/157">feat(templates): add Agenda event template (#64) (#157)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/amandewatnitrr/hacking-tutorial/pull/131">feat(lesson): add SQL injection lesson and update tutorial guide (#84) (#131)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/amandewatnitrr/hacking-tutorial">amandewatnitrr/hacking-tutorial</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
