@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>87 merged prs and counting.</u></p>
+<p><u>88 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/THU-MAIC/OpenMAIC/pull/1952">fix(whiteboard): make text and code selectable (#1945) (#1952)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/THU-MAIC/OpenMAIC">THU-MAIC/OpenMAIC</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/227">feat(server-shared): memory health check and server readiness checks (#227)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/ogcops/pull/159">feat(templates): add Contributors Wall template (#66) (#159)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/677">test(web): add DOM interaction tests for admin challenge lifecycle (#676) (#677)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
