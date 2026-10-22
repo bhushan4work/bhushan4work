@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>92 merged prs and counting.</u></p>
+<p><u>98 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/260">feat(evals): add tokenF1 deterministic metric (#230) (#260)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/DevSecOpsGuideline/pull/121">docs: add reusable pipeline governance and tampering prevention (#47) (#121)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/DevSecOpsGuideline">OWASP/DevSecOpsGuideline</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/OWASP/CheatSheetSeries/pull/2844">Modernize Compiler and Linker Guidance in C-Based Toolchain Hardening Cheat Sheet (#2844)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/CheatSheetSeries">OWASP/CheatSheetSeries</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/DevSecOpsGuideline/pull/120">docs: add access controls, user roles, and branch protections for pipeline configs (#120)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/DevSecOpsGuideline">OWASP/DevSecOpsGuideline</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/OWASP/CheatSheetSeries/pull/2828">Reduce tenant lifecycle implementation in Multi-Tenant cheat sheet (#2828)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/CheatSheetSeries">OWASP/CheatSheetSeries</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/ogcops/pull/197">fix(templates): render unsupported default icons as inline SVG (#163) (#197)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
