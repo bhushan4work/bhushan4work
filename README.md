@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>109 merged prs and counting.</u></p>
+<p><u>115 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/babel/babel/pull/18392">fix(parser): set phase: null for non-deferred imports with deferredImportEvaluation (#18313) (#18392)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/babel/babel">babel/babel</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/OWASP/cve-lite-cli/pull/1331">fix(output): serialize chainResolution in scan findings JSON (#1323) (#1331)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/discord-bot/pull/93">fix: show full leaderboard logins on phones (#93)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/discord-bot/pull/99">fix: add CORS to JSON leaderboard errors (#99)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/codercops/ogcops/pull/232">feat(templates): add developer now card (#227) (#232)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/codercops/toolbelt/pull/327">fix: improve disclosure control accessibility (#321) (#327)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
