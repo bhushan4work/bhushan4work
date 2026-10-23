@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>105 merged prs and counting.</u></p>
+<p><u>109 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/codercops/toolbelt/pull/294">docs(guides): add what is base64 guide (#37) (#294)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/babel/babel/pull/18392">fix(parser): set phase: null for non-deferred imports with deferredImportEvaluation (#18313) (#18392)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/babel/babel">babel/babel</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/toolbelt/pull/292">feat(guides): link guides and tools bidirectionally (#292)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/cve-lite-cli/pull/1331">fix(output): serialize chainResolution in scan findings JSON (#1323) (#1331)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/toolbelt/pull/273">feat(guides): add JWT decoding and claims guide (#36) (#273)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/discord-bot/pull/93">fix: show full leaderboard logins on phones (#93)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
