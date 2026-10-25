@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>118 merged prs and counting.</u></p>
+<p><u>121 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/OWASP/CheatSheetSeries/pull/2851">docs: clarify NetworkPolicy and pod security guidance (#2847) (#2851)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/CheatSheetSeries">OWASP/CheatSheetSeries</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/www-project-webshield-library/pull/71">Fix A04 useThreatModelGuard unstable default config (#20) (#71)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/www-project-webshield-library">OWASP/www-project-webshield-library</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/ogcops/pull/240">feat(templates): add e-commerce gift card template (#235) (#240)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/toolbelt/pull/340">fix(timestamp-converter): reject impossible calendar days in all date formats (#340)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/ogcops/pull/238">feat(templates): add office hours event template (#238)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/toolbelt/pull/339">fix: label URL encoder and JWT decoder copy buttons (#335) (#339)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
