@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>117 merged prs and counting.</u></p>
+<p><u>118 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/OWASP/CheatSheetSeries/pull/2851">docs: clarify NetworkPolicy and pod security guidance (#2847) (#2851)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/CheatSheetSeries">OWASP/CheatSheetSeries</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/ogcops/pull/240">feat(templates): add e-commerce gift card template (#235) (#240)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/ogcops/pull/238">feat(templates): add office hours event template (#238)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/discord-bot/pull/99">fix: add CORS to JSON leaderboard errors (#99)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
