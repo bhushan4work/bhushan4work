@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>123 merged prs and counting.</u></p>
+<p><u>126 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/280">feat: send Ollama custom headers from CLI and embeddings (#280)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box/pull/714">fix(review): scope unpinned-dependency rule to dependency fields (#714)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/owasp-ctf-in-a-box">OWASP/owasp-ctf-in-a-box</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/oracle/graal/pull/14729">Fix br_on_cast offset phi in wasm interpreter (#14729)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/oracle/graal">oracle/graal</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/chatcops/pull/345">fix(widget): lock mobile fullscreen scroll and update responsive styles (#339) (#345)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/OWASP/www-project-webshield-library/pull/71">Fix A04 useThreatModelGuard unstable default config (#20) (#71)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/OWASP/www-project-webshield-library">OWASP/www-project-webshield-library</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/ogcops/pull/271">feat(templates): add Welcome newsletter template (#247) (#271)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
