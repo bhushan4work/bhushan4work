@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>121 merged prs and counting.</u></p>
+<p><u>123 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI/pull/280">feat: send Ollama custom headers from CLI and embeddings (#280)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/cogitator-ai/Cogitator-AI">cogitator-ai/Cogitator-AI</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/oracle/graal/pull/14729">Fix br_on_cast offset phi in wasm interpreter (#14729)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/oracle/graal">oracle/graal</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/OWASP/www-project-webshield-library/pull/71">Fix A04 useThreatModelGuard unstable default config (#20) (#71)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/OWASP/www-project-webshield-library">OWASP/www-project-webshield-library</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/toolbelt/pull/340">fix(timestamp-converter): reject impossible calendar days in all date formats (#340)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/toolbelt/pull/339">fix: label URL encoder and JWT decoder copy buttons (#335) (#339)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
