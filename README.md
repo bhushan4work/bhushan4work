@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>129 merged prs and counting.</u></p>
+<p><u>130 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/codercops/chatcops/pull/446">feat(cli): add calls-tool and no-tool-call assertions (#412) (#446)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/370">feat(core): add workersAiEmbedder for Cloudflare Workers AI embeddings (#365) (#370)</a> &nbsp; <span>oct 2026</span><br>
@@ -49,11 +54,6 @@ const bhushan = {
 <p>
   <a href="https://github.com/codercops/toolbelt/pull/368">fix(markdown-preview): extract language from code-fence info string (#368)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/ogcops/pull/275">feat(templates): add Table of Contents blog template (#274) (#275)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
