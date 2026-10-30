@@ -39,7 +39,12 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>131 merged prs and counting.</u></p>
+<p><u>132 merged prs and counting.</u></p>
+
+<p>
+  <a href="https://github.com/OWASP/cve-lite-cli/pull/1427">test(overrides): cover phantom-utils helpers (#1088) (#1427)</a> &nbsp; <span>oct 2026</span><br>
+  <a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/430">feat(cli): add icontains, regex and equals text assertions (#411) (#430)</a> &nbsp; <span>oct 2026</span><br>
@@ -48,11 +53,6 @@ const bhushan = {
 
 <p>
   <a href="https://github.com/codercops/chatcops/pull/446">feat(cli): add calls-tool and no-tool-call assertions (#412) (#446)</a> &nbsp; <span>oct 2026</span><br>
-  <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/codercops/chatcops/pull/370">feat(core): add workersAiEmbedder for Cloudflare Workers AI embeddings (#365) (#370)</a> &nbsp; <span>oct 2026</span><br>
   <a href="https://github.com/codercops/chatcops">codercops/chatcops</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
