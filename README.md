@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>137 merged prs and counting.</u></p>
+<p><u>140 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/codercops/ogcops/pull/390">fix(meta-fetcher): strip HTML comments before parsing meta tags (#389) (#390)</a> &nbsp; <span>nov 2026</span><br>
-  <a href="https://github.com/codercops/ogcops">codercops/ogcops</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/codercops/discord-bot/pull/140">fix: resolve linked accounts for all winners in final results (#139) (#140)</a> &nbsp; <span>nov 2026</span><br>
+  <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/THU-MAIC/OpenMAIC/pull/2017">fix(pi): raise native child request budgets (#2006) (#2017)</a> &nbsp; <span>nov 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt/pull/467">fix(json-formatter): singularize sibilant and ambiguous -ses plurals in xml and typescript (#467)</a> &nbsp; <span>nov 2026</span><br>
+  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+</p>
+
+<p>
+  <a href="https://github.com/THU-MAIC/OpenMAIC/pull/2118">fix(agent-runtime): unify capability-dependent tool registration (#2102) (#2118)</a> &nbsp; <span>nov 2026</span><br>
   <a href="https://github.com/THU-MAIC/OpenMAIC">THU-MAIC/OpenMAIC</a> &nbsp;•&nbsp; <span>merged</span>
-</p>
-
-<p>
-  <a href="https://github.com/oracle/graal/pull/14771">Validate DWARF line table file and directory indices (#14771)</a> &nbsp; <span>nov 2026</span><br>
-  <a href="https://github.com/oracle/graal">oracle/graal</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
