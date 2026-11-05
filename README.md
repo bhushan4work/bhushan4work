@@ -39,21 +39,21 @@ const bhushan = {
 <p><em>contributing beyond my own repos...</em></p>
 
 <!-- OSS-AUTO-START -->
-<p><u>141 merged prs and counting.</u></p>
+<p><u>144 merged prs and counting.</u></p>
 
 <p>
-  <a href="https://github.com/OWASP/cve-lite-cli/pull/1498">docs(website): clarify local scan privacy claim on homepage (#1496) (#1498)</a> &nbsp; <span>nov 2026</span><br>
-  <a href="https://github.com/OWASP/cve-lite-cli">OWASP/cve-lite-cli</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/THU-MAIC/OpenMAIC/pull/2171">ci(e2e): upgrade Playwright and remove ubuntu-24.04 pin (#2170) (#2171)</a> &nbsp; <span>nov 2026</span><br>
+  <a href="https://github.com/THU-MAIC/OpenMAIC">THU-MAIC/OpenMAIC</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/discord-bot/pull/140">fix: resolve linked accounts for all winners in final results (#139) (#140)</a> &nbsp; <span>nov 2026</span><br>
-  <a href="https://github.com/codercops/discord-bot">codercops/discord-bot</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/THU-MAIC/OpenMAIC/pull/2103">fix(storage): filter referenced entries from collection candidate page (#2103)</a> &nbsp; <span>nov 2026</span><br>
+  <a href="https://github.com/THU-MAIC/OpenMAIC">THU-MAIC/OpenMAIC</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p>
-  <a href="https://github.com/codercops/toolbelt/pull/467">fix(json-formatter): singularize sibilant and ambiguous -ses plurals in xml and typescript (#467)</a> &nbsp; <span>nov 2026</span><br>
-  <a href="https://github.com/codercops/toolbelt">codercops/toolbelt</a> &nbsp;•&nbsp; <span>merged</span>
+  <a href="https://github.com/THU-MAIC/OpenMAIC/pull/2097">test(persistence): eliminate unhandled rejection race and scope lock-wait barrier in owner-materials (#2096) (#2097)</a> &nbsp; <span>nov 2026</span><br>
+  <a href="https://github.com/THU-MAIC/OpenMAIC">THU-MAIC/OpenMAIC</a> &nbsp;•&nbsp; <span>merged</span>
 </p>
 
 <p><a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abhushan4work+-user%3Abhushan4work">view more on github ↗</a></p>
